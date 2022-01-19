@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-7
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Tenebris idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Tenebris sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Tenebris sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Tenebris sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Tenebris sing down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tenebris",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "tenebris",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

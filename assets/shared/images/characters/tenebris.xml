@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tenebris.png"><SubTexture name="Tenebris idle dance0000" x="0" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris idle dance0001" x="754" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris idle dance0002" x="1508" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris idle dance0003" x="2262" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing up0000" x="0" y="754" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing up0001" x="754" y="754" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing up0002" x="1508" y="754" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing up0003" x="2262" y="754" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing right0000" x="0" y="1508" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing right0001" x="754" y="1508" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing right0002" x="1508" y="1508" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing right0003" x="2262" y="1508" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing left0000" x="0" y="2262" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing left0001" x="754" y="2262" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing left0002" x="1508" y="2262" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing left0003" x="2262" y="2262" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing down0000" x="0" y="3016" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing down0001" x="754" y="3016" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing down0002" x="1508" y="3016" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="Tenebris sing down0003" x="2262" y="3016" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+</TextureAtlas>
